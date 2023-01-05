@@ -2,7 +2,7 @@
 
 ***Get cute little quotes to brighten your day. :black_nib: :ribbon:***
 
-## ABOUT :bboks:
+## ABOUT :books:
 
 Since I like to read quotes to cheer up or simply get inspired, I thought I'd write a small Chrome extension that shows you little quotes while you work on something. Enjoy. :heart_on_fire:
 
