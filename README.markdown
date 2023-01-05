@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="banner/screenshot.png"/>
+</p>
+
 # CHROME QUOTLY :black_nib: :ribbon:
 
 ***Get cute little quotes to brighten your day. :black_nib: :ribbon:***
