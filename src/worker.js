@@ -8,7 +8,7 @@ function getRandomValue(object) {
     let max = Object.keys(object).length - 1;
     let min = 0;
     let randKey = Object.keys(object)[getRandomIntInclusive(min, max)];
-    return object[randKey];
+    return object[randKey][0];
 }
 
 // Getting a random integer qith both "min"
@@ -22,7 +22,7 @@ function getRandomIntInclusive(min, max) {
 // Fetching a quote from my API and setting that to the main
 // content on the page. Refreshes every 30 seconds.
 function main(){
-    let apiURL = 'https://angeldollface.art/assets/apis/json/quotes.json';
+    let apiURL = 'https://angeldollface.art/assets/apis/json/quotly.json';
     let quote = '';
     setInterval(
         () => {
